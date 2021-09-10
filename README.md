@@ -1,8 +1,7 @@
 # Weather-Dashboard
 
 ## URL:
-
-
+https://tejeshpatel.github.io/Weather-Dashboard/
 
 ## Description
 This is a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Used the OpenWeather One Call API to retrieve weather data for cities. Used localStorage to store persistent data.
